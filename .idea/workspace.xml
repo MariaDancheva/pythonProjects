@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9a3c3b9-6ccf-4349-bd71-83ac27601653" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/basketball_equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/deposit_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/fish_tank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/food_delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/radians_to_degrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/repainting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/supplies_for_school.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/usd_to_bgn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding _exercise/vacation_books_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/concatenate_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/greeting_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/hello_softuni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/inches_to_centimeters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/numbers_from_1_to_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/pet_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/projects_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_lab/yard_greening.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/celsius_to_fahrenheit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/circle_area_and_perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/fishland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/house_painting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/training_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/trapezoid_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/triangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/vegetable_market.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/weather_forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/weather_forecast_part_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2dRuVg5GkYiBfn08TefTyXzHw2p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.area_of_rectangle.executor": "Run",
+    "Python.basketball_equipment.executor": "Run",
+    "Python.celsius_to_fahrenheit.executor": "Run",
+    "Python.circle_area_and_perimeter.executor": "Run",
+    "Python.combining_text_and_numbers.executor": "Run",
+    "Python.deposit_calculator.executor": "Run",
+    "Python.fish_tank.executor": "Run",
+    "Python.fishland.executor": "Run",
+    "Python.food_delivery.executor": "Debug",
+    "Python.from_inches_to_cm.executor": "Run",
+    "Python.greetings_by_name.executor": "Run",
+    "Python.hello_softuni.executor": "Debug",
+    "Python.house_painting.executor": "Run",
+    "Python.numbers_from_1_to_10.executor": "Run",
+    "Python.project_complition.executor": "Run",
+    "Python.radians_to_degrees.executor": "Run",
+    "Python.repainting.executor": "Run",
+    "Python.supplies_for_school.executor": "Run",
+    "Python.training_lab.executor": "Run",
+    "Python.trapezoid_area.executor": "Run",
+    "Python.triangle_area.executor": "Run",
+    "Python.usd_to_bgn.executor": "Run",
+    "Python.vacation_books_list.executor": "Run",
+    "Python.vegetable_market.executor": "Run",
+    "Python.weather_forecast.executor": "Run",
+    "Python.weather_forecast_part_2.executor": "Run",
+    "Python.yard_greening.executor": "Run",
+    "Python.zoomagazine.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.weather_forecast_part_2">
+    <configuration name="circle_area_and_perimeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/circle_area_and_perimeter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fishland" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/fishland.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="house_painting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/house_painting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather_forecast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/weather_forecast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather_forecast_part_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pb_python_march/first_steps_in_coding_more_exercises/weather_forecast_part_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.weather_forecast_part_2" />
+        <item itemvalue="Python.weather_forecast" />
+        <item itemvalue="Python.circle_area_and_perimeter" />
+        <item itemvalue="Python.house_painting" />
+        <item itemvalue="Python.fishland" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9a3c3b9-6ccf-4349-bd71-83ac27601653" name="Changes" comment="" />
+      <created>1709983238049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709983238049</updated>
+    </task>
+    <servers />
+  </component>
+</project>
